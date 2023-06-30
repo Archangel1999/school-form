@@ -1,0 +1,18 @@
+﻿<html>
+
+<head> 
+
+<title>AKINSANYA KEHINDE SANDRA</title>
+
+<body>
+
+<h6>Auto biography</h6>
+<p>I am a student of Harvarde college, from the department of Computer science, 200 level.<br>I am fair in complexion.I am a native of Ogun  state.<br>I am reside in onireke, Adigbe, Abeokuta, Ogun state. br My best colour is pink.																																																																																	</p>
+<br>My birthday is May 2nd.<br>I love to sing.<br>I am short.<br>I love to sing.<br>I love to sing.
+
+<h1> my name</h1>
+ss
+
+</body>
+</head>
+</html>
